@@ -12,3 +12,5 @@ https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/47d3637e-012e-47
 https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/1b9a6ddd-2f2d-474b-866f-ed9e08fbedb4/view?access_token=e515570c6840303e571a04b101248ed0fc9fee10a3506ff7bedd57a68c93ddfc - Week 3, Part 3
 
 https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/1811741d-52fb-407c-ab3e-e7f7be1df065/view?access_token=efa7e4b639902e695cfd0166122d7221d24609a5b4882b8e11872c05ccf1be24 - Week 4, Part 1
+
+https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/d1b22848-205e-48b2-ad77-9e3d6f0d90a1/view?access_token=aa740b6205d60a732ac2f5ea2d3ed64ff127216715f3125f4170cd70a22d1716 - Week 4, Part 2
